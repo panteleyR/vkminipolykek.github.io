@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ace03f8afb868faddda1f18ba0459b4e",
+    "revision": "f4fa181fccc4843e799bf10d8bfba0a6",
     "url": "/vkminipolykek.github.io/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vkminipolykek.github.io/static/css/2.cdee455b.chunk.css"
   },
   {
-    "revision": "4f0de0240263802e35d7",
-    "url": "/vkminipolykek.github.io/static/css/main.65ddc47f.chunk.css"
+    "revision": "1df7de67d9a746fe22ea",
+    "url": "/vkminipolykek.github.io/static/css/main.9deb0096.chunk.css"
   },
   {
     "revision": "27ab6aa5d52ac6cc8879",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vkminipolykek.github.io/static/js/2.e5c72c24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f0de0240263802e35d7",
+    "revision": "1df7de67d9a746fe22ea",
     "url": "/vkminipolykek.github.io/static/js/main.e6950b2b.chunk.js"
   },
   {
