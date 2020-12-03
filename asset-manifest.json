@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vkminipolykek.github.io/static/css/main.d36085b4.chunk.css",
+    "main.css": "/vkminipolykek.github.io/static/css/main.65ddc47f.chunk.css",
     "main.js": "/vkminipolykek.github.io/static/js/main.e6950b2b.chunk.js",
     "main.js.map": "/vkminipolykek.github.io/static/js/main.e6950b2b.chunk.js.map",
     "runtime-main.js": "/vkminipolykek.github.io/static/js/runtime-main.cd3389c8.js",
@@ -9,10 +9,10 @@
     "static/js/2.e5c72c24.chunk.js": "/vkminipolykek.github.io/static/js/2.e5c72c24.chunk.js",
     "static/js/2.e5c72c24.chunk.js.map": "/vkminipolykek.github.io/static/js/2.e5c72c24.chunk.js.map",
     "index.html": "/vkminipolykek.github.io/index.html",
-    "precache-manifest.55513045d16ff020beaf8f23ba24646c.js": "/vkminipolykek.github.io/precache-manifest.55513045d16ff020beaf8f23ba24646c.js",
+    "precache-manifest.6bd024ada3f78b0c683d863831c2ec57.js": "/vkminipolykek.github.io/precache-manifest.6bd024ada3f78b0c683d863831c2ec57.js",
     "service-worker.js": "/vkminipolykek.github.io/service-worker.js",
     "static/css/2.cdee455b.chunk.css.map": "/vkminipolykek.github.io/static/css/2.cdee455b.chunk.css.map",
-    "static/css/main.d36085b4.chunk.css.map": "/vkminipolykek.github.io/static/css/main.d36085b4.chunk.css.map",
+    "static/css/main.65ddc47f.chunk.css.map": "/vkminipolykek.github.io/static/css/main.65ddc47f.chunk.css.map",
     "static/js/2.e5c72c24.chunk.js.LICENSE.txt": "/vkminipolykek.github.io/static/js/2.e5c72c24.chunk.js.LICENSE.txt",
     "static/media/favicon.ico": "/vkminipolykek.github.io/static/media/favicon.6ae1d7ac.ico",
     "static/media/fit_banner.jpg": "/vkminipolykek.github.io/static/media/fit_banner.33065b47.jpg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.cd3389c8.js",
     "static/css/2.cdee455b.chunk.css",
     "static/js/2.e5c72c24.chunk.js",
-    "static/css/main.d36085b4.chunk.css",
+    "static/css/main.65ddc47f.chunk.css",
     "static/js/main.e6950b2b.chunk.js"
   ]
 }
