@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/vkminipolykek.github.io/static/css/main.9deb0096.chunk.css",
-    "main.js": "/vkminipolykek.github.io/static/js/main.e6950b2b.chunk.js",
-    "main.js.map": "/vkminipolykek.github.io/static/js/main.e6950b2b.chunk.js.map",
+    "main.js": "/vkminipolykek.github.io/static/js/main.060259b4.chunk.js",
+    "main.js.map": "/vkminipolykek.github.io/static/js/main.060259b4.chunk.js.map",
     "runtime-main.js": "/vkminipolykek.github.io/static/js/runtime-main.cd3389c8.js",
     "runtime-main.js.map": "/vkminipolykek.github.io/static/js/runtime-main.cd3389c8.js.map",
     "static/css/2.cdee455b.chunk.css": "/vkminipolykek.github.io/static/css/2.cdee455b.chunk.css",
-    "static/js/2.e5c72c24.chunk.js": "/vkminipolykek.github.io/static/js/2.e5c72c24.chunk.js",
-    "static/js/2.e5c72c24.chunk.js.map": "/vkminipolykek.github.io/static/js/2.e5c72c24.chunk.js.map",
+    "static/js/2.48d192a7.chunk.js": "/vkminipolykek.github.io/static/js/2.48d192a7.chunk.js",
+    "static/js/2.48d192a7.chunk.js.map": "/vkminipolykek.github.io/static/js/2.48d192a7.chunk.js.map",
     "index.html": "/vkminipolykek.github.io/index.html",
-    "precache-manifest.76f9be3b2bb373eed4c5372235b45f5f.js": "/vkminipolykek.github.io/precache-manifest.76f9be3b2bb373eed4c5372235b45f5f.js",
+    "precache-manifest.06331afffcfd179431834adeccf67198.js": "/vkminipolykek.github.io/precache-manifest.06331afffcfd179431834adeccf67198.js",
     "service-worker.js": "/vkminipolykek.github.io/service-worker.js",
     "static/css/2.cdee455b.chunk.css.map": "/vkminipolykek.github.io/static/css/2.cdee455b.chunk.css.map",
     "static/css/main.9deb0096.chunk.css.map": "/vkminipolykek.github.io/static/css/main.9deb0096.chunk.css.map",
-    "static/js/2.e5c72c24.chunk.js.LICENSE.txt": "/vkminipolykek.github.io/static/js/2.e5c72c24.chunk.js.LICENSE.txt",
+    "static/js/2.48d192a7.chunk.js.LICENSE.txt": "/vkminipolykek.github.io/static/js/2.48d192a7.chunk.js.LICENSE.txt",
     "static/media/favicon.ico": "/vkminipolykek.github.io/static/media/favicon.6ae1d7ac.ico",
     "static/media/fit_banner.jpg": "/vkminipolykek.github.io/static/media/fit_banner.33065b47.jpg",
     "static/media/mospolytech-logo-hero-white.png": "/vkminipolykek.github.io/static/media/mospolytech-logo-hero-white.312a53b6.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.cd3389c8.js",
     "static/css/2.cdee455b.chunk.css",
-    "static/js/2.e5c72c24.chunk.js",
+    "static/js/2.48d192a7.chunk.js",
     "static/css/main.9deb0096.chunk.css",
-    "static/js/main.e6950b2b.chunk.js"
+    "static/js/main.060259b4.chunk.js"
   ]
 }
