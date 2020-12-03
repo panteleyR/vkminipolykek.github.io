@@ -1,0 +1,197 @@
+.Persik {
+  display: block;
+  width: 30%;
+  max-width: 240px;
+  margin: 20px auto;
+}
+
+.header {
+  background: black;
+}
+
+.bg-kek {
+  background: #1e1e1e;
+}
+
+.bg-kek img {
+  max-width: 100%;
+}
+.bg-kek .firstSec {
+  padding: 10px 10%;
+  position: relative;
+  min-height: 80vh;
+  max-height: 80vh;
+}
+.bg-kek .firstSec .bg-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-position: top;
+  object-fit: cover;
+}
+.bg-kek .firstSec .header {
+  position: relative;
+  z-index: 10;
+  background: transparent;
+}
+.bg-kek .firstSec .content {
+  z-index: 10;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  width: 60%;
+}
+.bg-kek .firstSec .content .title {
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+.bg-kek .firstSec .content .desc {
+  font-size: 16px;
+  margin-bottom: 40px;
+}
+
+.bg-kek .educ {
+  /*display: flex;*/
+  padding: 30px 10%;
+  background: #fff;
+  position: relative;
+}
+.bg-kek .naprav .bg {
+  position: absolute;
+  top: -80px;
+  left: -80px;
+  width: 320px;
+  height: 320px;
+}
+
+.bg-kek .educ .title {
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 40px;
+  position: relative;
+}
+.bg-kek .educ .title .fav {
+  margin-bottom: -10px;
+  margin-left: 10px;
+}
+.bg-kek .educ .content div {
+  margin-bottom: 20px;
+}
+
+.bg-kek .naprav {
+  /*display: flex;*/
+  padding: 30px 10%;
+  background: #eeeeee;
+  position: relative;
+}
+
+.bg-kek .naprav .title {
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 40px;
+  position: relative;
+
+}
+.bg-kek .naprav .sub-title {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+  position: relative;
+}
+.bg-kek .naprav .list {
+  padding-left: 10px;
+  margin-bottom: 20px;
+  position: relative;
+}
+.bg-kek .naprav .list div{
+  margin-bottom: 5px;
+}
+
+.bg-kek .next-step {
+  display: flex;
+  /*padding: 30px 10%;*/
+}
+.bg-kek .next-step .el {
+  padding: 30px 20px;
+  /*min-height: 300px;*/
+  position: relative;
+  cursor: pointer;
+}
+.bg-kek .next-step .el:hover {
+  box-shadow: 0 6px 18px rgb(0 0 0 / 20%);
+}
+.bg-kek .next-step .el .uzor {
+  position: absolute;
+  right: 0;
+  width: 90%;
+  top: 10px;
+}
+.bg-kek .next-step .el:first-of-type {
+  width: 50%;
+  background: white;
+  color: #1e1e1e;
+  /*padding: 30px 20px;*/
+}
+.bg-kek .next-step .el:nth-of-type(2) {
+  width: 25%;
+  background: #4b6eb9;
+  color: white;
+}
+.bg-kek .next-step .el:nth-of-type(3) {
+  width: 25%;
+  background: #874ba0;
+  color: white;
+}
+
+
+.bg-kek .contacts {
+  color: white;
+  padding: 30px 10%;
+}
+.bg-kek .contacts .title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  width: 80%;
+}
+.bg-kek .contacts .content {
+  font-size: 14px;
+  margin-bottom: 60px;
+}
+.bg-kek .contacts .links {
+  font-size: 14px;
+  font-weight: bold;
+}
+.bg-kek .contacts .links .link-button {
+  color: white;
+  position: relative;
+  display: inline-block;
+  padding: 10px 0;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+}
+.bg-kek .contacts .links .link-button:before {
+  content: '';
+  color: white;
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  background: white;
+  bottom: 0;
+  left: 0;
+  transition: width 0.4s;
+  cursor: pointer;
+}
+
+.bg-kek .contacts .links .link-button:hover:before {
+  content: '';
+  right: 0;
+  left: unset;
+  width: 0;
+}
