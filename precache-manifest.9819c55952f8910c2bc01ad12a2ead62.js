@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "285b5d155dfb85925e0647256744d0b4",
+    "revision": "a3f336a943420196f7f7d71ee3b505db",
     "url": "/vkminipolykek.github.io/index.html"
   },
   {
-    "revision": "f79a6c003c37e1b5371b",
+    "revision": "fad544a07d4f7222757d",
     "url": "/vkminipolykek.github.io/static/css/2.cdee455b.chunk.css"
   },
   {
-    "revision": "07e1c0b745ea0685fdf3",
-    "url": "/vkminipolykek.github.io/static/css/main.9deb0096.chunk.css"
+    "revision": "07a149c34642d6798d33",
+    "url": "/vkminipolykek.github.io/static/css/main.2c69c5f1.chunk.css"
   },
   {
-    "revision": "f79a6c003c37e1b5371b",
-    "url": "/vkminipolykek.github.io/static/js/2.48d192a7.chunk.js"
+    "revision": "fad544a07d4f7222757d",
+    "url": "/vkminipolykek.github.io/static/js/2.0379ee6d.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/vkminipolykek.github.io/static/js/2.48d192a7.chunk.js.LICENSE.txt"
+    "url": "/vkminipolykek.github.io/static/js/2.0379ee6d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07e1c0b745ea0685fdf3",
-    "url": "/vkminipolykek.github.io/static/js/main.060259b4.chunk.js"
+    "revision": "07a149c34642d6798d33",
+    "url": "/vkminipolykek.github.io/static/js/main.de69092f.chunk.js"
   },
   {
     "revision": "fc1d7a2d08f34ca0359b",
